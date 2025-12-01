@@ -31,7 +31,6 @@ Brain-to-text/
 | Model                  | Data used (train/val)                  | Val PER    | Val WER    | Notes                                   |
 |-----------------------|----------------------------|------------|------------|-----------------------------------------|
 | Conv-BiGRU            | 2,000 / 300 trials         | 96.0%      | –          | failed to generalize             |
-| Residual GRU          | 800 / 200 trials           | –          | 76.1%      | model underfits             |
 | **Transformer Encoder** (final) | **Full 8,072 / 1,426** | **23.90%** | **37.66%** | **Best model** – 4 layers, 8 heads, d=256 |
 
 **Training details (best model)**  
