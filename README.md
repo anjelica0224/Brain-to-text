@@ -15,8 +15,8 @@ Decode intended speech directly from high-resolution intracortical neural record
 ```
 Brain-to-text/
 ├── full_transformer/
-|     ├── script.py
-|     ├── train/
+|     ├── transformer-architecture.ipynb
+|     ├── per_to_wer.ipynb/
 ├── subset_experiments/
 |     ├── per-convbigru.ipynb
 |     ├── residual-gru.ipynb
