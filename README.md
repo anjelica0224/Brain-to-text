@@ -50,6 +50,8 @@ Brain-to-text/
 - CTC loss enables end-to-end training without alignment  
 - WER limited by tiny dictionary and absence of language model / beam search
 
+##Video Submission
+-https://drive.google.com/file/d/19EgKwWzdroepS1b8v_MmNCj7kxMkMVJE/view?usp=sharing
 
 
 **Authors:** Anjelica, Ishita Rathore, Mishika Sood, Tanu Adhikari
